@@ -1,3 +1,3 @@
-def tests(){
+def call(){
   echo 'running tests'
 }
